@@ -10,10 +10,5 @@
   ],
   "enableGlobDot": true,
   "dictionaries": ["project-words"],
-  "ignorePaths": [
-    "**/__snapshots__/*.snap",
-    ".git",
-    "target"
-  ]
+  "ignorePaths": [".git", "target"]
 }
-
